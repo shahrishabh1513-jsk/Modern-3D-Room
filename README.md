@@ -1,7 +1,7 @@
 # 🏠 Modern 3D Room – Interactive UI Experience
 
 🌐 **Live Demo**  
-(Add your GitHub Pages link here)
+👉 https://shahrishabh1513-jsk.github.io/Modern-3D-Room/
 
 ---
 
@@ -89,13 +89,7 @@ This project was created to:
 
 ## 📸 Screenshots
 
-(Add screenshots inside a `/screensshots` folder)
-
-Example:
-
-```
-![3D Room](screenshots/home.png)
-```
+<img width="1831" height="861" alt="ss1_Day_31" src="https://github.com/user-attachments/assets/c8eae21f-1cc7-4565-b58a-948987b31341" />
 
 ---
 
@@ -121,4 +115,5 @@ Example:
 ---
 
 ⭐ If you like this project, consider giving it a star!
+
 
