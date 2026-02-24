@@ -110,17 +110,15 @@ Example:
 ---
 
 ## 🏷️ Tags
-
-
----
-
-## 👨‍💻 Author
-
-**Rishabh Shah**  
-Frontend Developer | UI/UX Enthusiast  
-
-Passionate about building immersive and interactive web experiences.
-
+<p>
+  <img src="https://img.shields.io/badge/3D-Animation-purple"/>
+  <img src="https://img.shields.io/badge/3D-UI-darkblue"/>
+  <img src="https://img.shields.io/badge/interactive-ui-green"/>
+  <img src="https://img.shields.io/badge/creative-coding-red"/>
+  <img src="https://img.shields.io/badge/frontend-project-black"/>
+  <img src="https://img.shields.io/badge/modern-design-lightgrey"/>
+</p>
 ---
 
 ⭐ If you like this project, consider giving it a star!
+
